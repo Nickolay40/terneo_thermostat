@@ -9,6 +9,9 @@ https://terneo-api.readthedocs.io/ru/latest/
 
 block removing - https://terneo-api.readthedocs.io/ru/latest/en/safety.html
 
+Manual block removing (simple) - OFF blocking on device (Depend from your device version, see manual instruction on terneo.ua):
+Menu BLc change LAn,on,cld ->> oFF
+
 put `terneo` folder to the `custom_components`
 
 config example (`configuration.yaml`):
